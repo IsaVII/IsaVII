@@ -2,6 +2,8 @@
 
 Software Developer with a background in game systems programming in Unity (C#) and Unreal Engine (C++) (8+ years, including production work at **Studio Northshade** and **Glimeria Studios**). Now building full-stack web projects with React, Node, and MongoDB.
 
+Most of my professional and private work has been game projects in Unreal Engine using Perforce/proprietary source control, so it isn't reflected in this GitHub contribution graph. This profile mainly hosts web-focused projects.
+
 🔗 [Portfolio](https://IsaVII.github.io/portfolio-software) · [LinkedIn](https://linkedin.com/in/isa-hellström-229aa6187/)
 
 ## 🛠️ Languages & Tools
