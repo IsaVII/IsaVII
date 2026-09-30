@@ -17,7 +17,7 @@
 <!-- Stats + Streak -->
 <p align="center">
   <a href="https://github-stats-extended.vercel.app/api/top-langs?username=IsaVII&layout=compact&langs_count=4&hide_values=true&theme=dark_github">
-    <img height="150" alt="Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs?username=IsaVII&layout=compact&langs_count=4&hide_values=true&theme=dark_github" />
+    <img height="150" alt="Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs?username=IsaVII&layout=compact&langs_count=6&hide_values=true&theme=dark_github" />
   </a>
   <a href="https://git.io/streak-stats">
     <img height="150" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=IsaVII&theme=kanagawa-paper&hide_border=true&short_numbers=true&date_format=%5BY%20%5DM%20j&exclude_days=Sun&card_height=100" />
