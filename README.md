@@ -3,13 +3,16 @@
 <!-- Links -->
 🔗 [Portfolio](https://IsaVII.github.io/portfolio-software) · [LinkedIn](https://linkedin.com/in/isa-hellström-229aa6187/)
 
-💡 Software Developer with a background in game systems programming in Unity (C#) and Unreal Engine (C++) (8+ years, including production work at **Studio Northshade** and **Glimeria Studios**).
+💡 Software developer with 8+ years in game systems programming — Unreal Engine (C++) and Unity (C#) — including production work at **Studio Northshade** and **Glimeria Studios**.
 
-🌐 Now building full-stack web projects with React, Node, and MongoDB.
+🌐 Now building full-stack web apps with React, Node and MongoDB.
  
 💭 Learning: Upgrading my skills with Java Spring Boot. 
 
-❗ Most of my professional and private work has been game projects in Unreal Engine using Perforce/proprietary source control, so it isn't reflected in this GitHub contribution graph. This profile mainly hosts web-focused projects.
+> [!NOTE]
+> Most of my game work lives in Perforce and Azure repos, so it isn't reflected in the contribution graph. This profile focuses on web projects. See my [portfolio](https://IsaVII.github.io/portfolio-software) for the game side.
+
+
 
 <!-- Stats + Streak -->
 <p align="center">
@@ -36,3 +39,17 @@
 
 </div>
 
+
+
+## 🚀 Featured work
+
+<div align="center">
+ <a href="https://store.steampowered.com/app/3872220/">
+  <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3872220/9a37a482e1d42b99813806bc8aa4d9c9bd2fdaf3/header.jpg?t=1769232630" alt="Hexavale on Steam" width="460" />
+</a>
+ <a href="https://store.steampowered.com/app/1906970/">
+  <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1906970/header.jpg?t=1726932383" alt="Magical Harvest on Steam" width="460" />
+</a>
+
+
+</div>
