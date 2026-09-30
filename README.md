@@ -1,9 +1,24 @@
-# Hi, I'm Isa 👋
+# 💫 Hi, I'm Isa 👋
 
-Software Developer with a background in game systems programming in Unity (C#) and Unreal Engine (C++) (8+ years, including production work at **Studio Northshade** and **Glimeria Studios**). Now building full-stack web projects with React, Node, and MongoDB.
+💡 Software Developer with a background in game systems programming in Unity (C#) and Unreal Engine (C++) (8+ years, including production work at **Studio Northshade** and **Glimeria Studios**).
 
-Most of my professional and private work has been game projects in Unreal Engine using Perforce/proprietary source control, so it isn't reflected in this GitHub contribution graph. This profile mainly hosts web-focused projects.
+🌐 Now building full-stack web projects with React, Node, and MongoDB.
+ 
+💭 Learning: Upgrading my skills with Java Spring Boot. 
 
+❗ Most of my professional and private work has been game projects in Unreal Engine using Perforce/proprietary source control, so it isn't reflected in this GitHub contribution graph. This profile mainly hosts web-focused projects.
+
+<!-- Stats + Streak -->
+<p align="center">
+  <a href="https://github-stats-extended.vercel.app/api/top-langs?username=IsaVII&layout=compact&langs_count=4&hide_values=true&theme=dark_github">
+    <img height="150" alt="Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs?username=IsaVII&layout=compact&langs_count=4&hide_values=true&theme=dark_github" />
+  </a>
+  <a href="https://git.io/streak-stats">
+    <img height="150" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=IsaVII&theme=kanagawa-paper&hide_border=true&short_numbers=true&date_format=%5BY%20%5DM%20j&exclude_days=Sun&card_height=100" />
+  </a>
+</p>
+
+<!-- Links -->
 🔗 [Portfolio](https://IsaVII.github.io/portfolio-software) · [LinkedIn](https://linkedin.com/in/isa-hellström-229aa6187/)
 
 ## 🛠️ Languages & Tools
