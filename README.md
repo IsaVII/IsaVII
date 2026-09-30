@@ -41,7 +41,7 @@
 
 
 
-## 🚀 Featured work
+## 🚀 Featured work (Games)
 
 <div align="center">
  <a href="https://store.steampowered.com/app/3872220/">
