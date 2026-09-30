@@ -42,14 +42,20 @@
 
 
 ## 🚀 Featured work (Games)
-
-<div align="center">
- <a href="https://store.steampowered.com/app/3872220/">
-  <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3872220/9a37a482e1d42b99813806bc8aa4d9c9bd2fdaf3/header.jpg?t=1769232630" alt="Hexavale on Steam" width="300" />
-</a>
- <a href="https://store.steampowered.com/app/1906970/">
-  <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1906970/header.jpg?t=1726932383" alt="Magical Harvest on Steam" width="300" />
-</a>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://store.steampowered.com/app/3872220/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3872220/9a37a482e1d42b99813806bc8aa4d9c9bd2fdaf3/header.jpg" alt="Hexavale on Steam" width="300" /></a><br />
+      <b>Hexavale</b><br />
+      <sub>Hex-based strategy-puzzle game · Unreal Engine · Coming to Early Access (demo out)</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://store.steampowered.com/app/1906970/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1906970/header.jpg" alt="Magical Harvest on Steam" width="300" /></a><br />
+      <b>Magical Harvest</b><br />
+      <sub>Magical farming RPG · Unreal Engine · Demo out</sub>
+    </td>
+  </tr>
+</table>
 
 
 </div>
