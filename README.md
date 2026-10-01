@@ -10,7 +10,7 @@
 💭 Learning: Upgrading my skills with Java Spring Boot. 
 
 > [!NOTE]
-> Most of my game work lives in Perforce and Azure repos, so it isn't reflected in the contribution graph. This profile focuses on web projects. See my [portfolio](https://IsaVII.github.io/portfolio-software) for the game side.
+> Most of my game work lives in Perforce and Azure repos, so it isn't reflected in the contribution graph. This profile focuses on full-stack and not game-related projects. See my [portfolio](https://IsaVII.github.io/portfolio-software) for the game side.
 
 
 
