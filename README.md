@@ -3,6 +3,8 @@
 <!-- Links -->
 🔗 [Portfolio](https://IsaVII.github.io/portfolio-software) · [LinkedIn](https://linkedin.com/in/isa-hellstrom/)
 
+🤝 **Looking for a LIA (internship) as a full-stack developer, 21 April – 15 July 2027.**
+
 💡 Software developer with 5+ years in game systems programming — Unreal Engine (C++) and Unity (C#) — including production work at **Studio Northshade** and **Glimeria Studios**.
 
 🌐 Now building full-stack web apps with React, Node and MongoDB.
@@ -11,7 +13,6 @@
 
 > [!NOTE]
 > Most of my game work lives in Perforce and Azure repos, so it isn't reflected in the contribution graph. This profile focuses on full-stack and not game-related projects. See my [portfolio](https://IsaVII.github.io/portfolio-software) for the game side.
-
 
 
 <!-- Stats + Streak -->
@@ -23,6 +24,28 @@
     <img height="150" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=IsaVII&theme=kanagawa-paper&hide_border=true&short_numbers=true&date_format=%5BY%20%5DM%20j&card_height=100" />
   </a>
 </p>
+
+## 🧭 My path to full-stack
+
+```mermaid
+flowchart LR
+    A(["🎮 5+ years of game development<br/>C++ / Unreal · C# / Unity"]) --> B["📚 Lexicon: Full-stack Software Developer Java<br/>Sep 2026 – Jul 2027"]
+    A --> C["🔥 Motivation<br/>Expand my skills beyond game engines"]
+    A --> E["🌐 Already building web apps<br/>React · Node.js · MongoDB"]
+    B --> D(["🎯 Goal: Full-stack Developer on your team<br/>LIA 21 April – 15 July 2027"])
+    C --> D
+    E --> D
+
+    classDef start fill:#bfdbfe,stroke:#60a5fa,color:#1e3a8a
+    classDef step fill:#eff6ff,stroke:#60a5fa,color:#1e3a8a
+    classDef goal fill:#3b82f6,stroke:#1d4ed8,color:#fff
+
+    class A start
+    class B,C,E step
+    class D goal
+```
+
+
 
 
 
@@ -56,8 +79,4 @@
     </td>
   </tr>
 </table>
-
-
-</div>
-
 
