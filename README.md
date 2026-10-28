@@ -61,11 +61,9 @@
 
 ```mermaid
 flowchart LR
-    A(["🎮 5+ years of game development<br/>C++ / Unreal · C# / Unity"]) --> B["📚 <b>Lexicon:</b> Full-stack Software Developer Java<br/>Sep 2026 – Jul 2027"]
-    A --> C["🔥 <b>Motivation</b><br/>Career shift towards software development"]
+    A(["🎮 5+ years of game development<br/>C++ / Unreal · C# / Unity<br/>🔥 Career shift at Lexicon"]) --> B["📚 <b>Lexicon:</b> Full-stack Software Developer Java<br/>Sep 2026 – Jul 2027"]
     A --> E["🌐 Already building web apps since May 2026<br/>React · Node.js · MongoDB"]
     B --> D(["🎯 Goal: Full-stack Developer on your team<br/>LIA 21 April – 15 July 2027"])
-    C --> D
     E --> D
 
     classDef start fill:#bfdbfe,stroke:#60a5fa,color:#1e3a8a
@@ -73,7 +71,7 @@ flowchart LR
     classDef goal fill:#3b82f6,stroke:#1d4ed8,color:#fff
 
     class A start
-    class B,C,E step
+    class B,E step
     class D goal
 ```
 
