@@ -1,13 +1,13 @@
 # 💫 Hi, I'm Isa 👋
 
 <!-- Links -->
-🔗 [Portfolio](https://IsaVII.github.io/portfolio-software) · [LinkedIn](https://linkedin.com/in/isa-hellström-229aa6187/)
+🔗 [Portfolio](https://IsaVII.github.io/portfolio-software) · [LinkedIn](https://linkedin.com/in/isa-hellstrom/)
 
-💡 Software developer with 8+ years in game systems programming — Unreal Engine (C++) and Unity (C#) — including production work at **Studio Northshade** and **Glimeria Studios**.
+💡 Software developer with 5+ years in game systems programming — Unreal Engine (C++) and Unity (C#) — including production work at **Studio Northshade** and **Glimeria Studios**.
 
 🌐 Now building full-stack web apps with React, Node and MongoDB.
  
-💭 Learning: Upgrading my skills with Java Spring Boot. 
+💭 Learning: Upgrading my skills with Java Spring Boot and enrolled in the Full-stack Developer Java course at Lexicon Växjö. 
 
 > [!NOTE]
 > Most of my game work lives in Perforce and Azure repos, so it isn't reflected in the contribution graph. This profile focuses on full-stack and not game-related projects. See my [portfolio](https://IsaVII.github.io/portfolio-software) for the game side.
@@ -59,3 +59,5 @@
 
 
 </div>
+
+
