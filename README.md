@@ -29,9 +29,9 @@
 
 ```mermaid
 flowchart LR
-    A(["🎮 5+ years of game development<br/>C++ / Unreal · C# / Unity"]) --> B["📚 Lexicon: Full-stack Software Developer Java<br/>Sep 2026 – Jul 2027"]
-    A --> C["🔥 Motivation<br/>Expand my skills beyond game engines"]
-    A --> E["🌐 Already building web apps<br/>React · Node.js · MongoDB"]
+    A(["🎮 5+ years of game development<br/>C++ / Unreal · C# / Unity"]) --> B["📚 <b>Lexicon:</b> Full-stack Software Developer Java<br/>Sep 2026 – Jul 2027"]
+    A --> C["🔥 <b>Motivation</b><br/>New job orientation towards software development"]
+    A --> E["🌐 Already building web apps since May 2025<br/>React · Node.js · MongoDB"]
     B --> D(["🎯 Goal: Full-stack Developer on your team<br/>LIA 21 April – 15 July 2027"])
     C --> D
     E --> D
